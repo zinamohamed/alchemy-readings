@@ -1,0 +1,3 @@
+## Cunningham’s Law - Ward Cunningham
+      - "The best way to get the right answer on the Internet is not to ask a question, it’s to post the wrong answer."
+          - People on the internet are generally more enclined to correct you than to help you. Rather than asking "how does X work?" and being met with condescension. If you say "X works like this!!" people will be lined up to correct you and explain in great detail how incorrect you are, and how it ACTUALLY works!
